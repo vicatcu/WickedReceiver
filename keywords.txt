@@ -1,0 +1,13 @@
+WickedReceiver	KEYWORD1
+processEncodedByte	KEYWORD2
+nextPacket	KEYWORD2
+getDecodedNodeId	KEYWORD2
+getDecodedPacketNumber	KEYWORD2
+getDecodedSensor1	KEYWORD2
+getDecodedSensor2	KEYWORD2
+getDecodedSensor3	KEYWORD2
+getDecodedDigitalCount	KEYWORD2
+getDecodedByte	KEYWORD2
+getEncodedByte	KEYWORD2
+getMillisSinceLastDecode	KEYWORD2
+inSilenceWindow	KEYWORD2
